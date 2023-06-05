@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.buttons {
+    padding: ;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+    
+}
+
+#clickButton {
+    width: 200px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-right: 150px;
+    font-size: large;
+    background-color: aqua;
+    cursor: pointer;
+}
+
+#hoverButton{
+    width: 200px;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: large;
+    background-color:deeppink;
+    cursor: pointer;
+}
